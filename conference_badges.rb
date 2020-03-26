@@ -7,5 +7,4 @@ end
 def batch_badge_creator(names)
   names = []
   names.collect {|person| "Hello, my name is #{person}."}
-  end
 end
