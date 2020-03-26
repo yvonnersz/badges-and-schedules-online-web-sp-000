@@ -6,5 +6,5 @@ end
 
 def batch_badge_creator(names)
   names = []
-  names.each {|person| puts "Hello, my name is #{person}."}
+  names.each {|person| prints "Hello, my name is #{person}."}
 end
